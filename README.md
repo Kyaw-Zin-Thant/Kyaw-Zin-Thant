@@ -8,7 +8,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Canal Plus Myanmar**
+- 🏢 I'm currently working at **FPT Software Compnay, Can Tho City, Vietnam**
 - 🌱 I’m currently learning **Go Lang Framwork**
 - 🌱 Learning all about **DevOps**
 - 📫 How to reach me **kyawzinucsm89@gmail.com**
