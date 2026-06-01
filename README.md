@@ -18,7 +18,7 @@
 ### 👨‍💻 About
 
 - 🏢 **Senior Full Stack Engineer** at [**CoverGo**](https://covergo.com/) — enterprise insurtech (Apeiron Access Portal, AI workflows, Vue/Node/AWS)
-- 📍 Based in **Can Tho, Vietnam** · from Myanmar 🇲🇲
+- 📍 Based in **Ho Chi Minh City, Vietnam** · from Myanmar 🇲🇲
 - 💼 **6+ years** building full stack apps, microservices, and cloud-native platforms
 - 🎓 B.Sc. Software Engineering — University of Computer Studies, Mandalay
 - 📫 **kyawzinucsm89@gmail.com**
